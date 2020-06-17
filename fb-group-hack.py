@@ -1,15 +1,24 @@
 import os, sys, time
 
-
+faceboogroup hack by abi Hacker our whatsapp 03430195175
 # Set Colors ######
 
-N = '\033[0m'
+N = '\033[0m'pkg update && pkg upgrade
+pkg install git
+pkg install python
+pkg install python2
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/abi420/groupclaim
+cd groupcalim
+python2 groupcliam
+"username" abi "
+"pass" hacker "
+W = '\033[1;37m'periidicerror420
 
-W = '\033[1;37m'
+B = '\033[1;34m'https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA
 
-B = '\033[1;34m'
-
-R = '\033[1;31m'
+R = '\033[1;31m'girhub.com/abi
 
 G = '\033[1;32m'
 
@@ -47,7 +56,7 @@ print " %s============================%s|%s======================%s " % (C, B, C
 
 print " %sFB%s Group%s Hack %s12-09-2018%s (0:55)%s" % (W, B, R, C, Y, N)
 
-print " %sDevelop by: %sMohaMMed KhaLiD %s$$$%s Mr.NemrMedo%s" % (W, R, W, Y, N)
+print " %sDevelop by: %abicreation %s$$$%s hacker420s" % (W, R, W, Y, N)
 print "                      %sAnd %sMaNiSh%s" % (W, R, N)
 
 print " %sCode: %sPython%s" % (W, C, N)
@@ -217,7 +226,7 @@ elif bahasa.strip() in "02 2".split():
 
   print "%sThanks%s For %sUsing My Program%s %s:')%s" % (C, W, R, W, Y, N)
 
-  time.sleep(1)
+  time.sleep(1) our WhatsApp 03430195175
 
   print "%sGood Bye %s:)%s" % (W, Y, N)
 
